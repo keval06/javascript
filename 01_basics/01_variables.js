@@ -8,7 +8,7 @@ accountCity = "ahmedabad"
 
 accountEmail = "kp@kp.com"
 accountPassword = "2468"
-accountCity = "Banglore"
+// accountCity = "Bangluru"
 
 let accountState;
 console.log(accountId);

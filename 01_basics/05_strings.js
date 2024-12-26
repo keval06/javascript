@@ -38,3 +38,5 @@ console.log(url.replace('%20', '-'))            //replace purpose
 console.log(url.includes('sundar'))             //if exist ? true: false
 
 console.log(gameName.split('-'));               //convert string obj to array, separateed by given values
+
+//and many more string funxtions, methods can be read on mdn , conssole of browser, by creating string obj with "new" keyword
